@@ -4,9 +4,6 @@
 [commit]
     gpgSign = true
 
-[push]
-    gpgSign = true
-
 [tag]
     forceSignAnnotated = true
 
